@@ -1,0 +1,6 @@
+{
+  "name": "workflow",
+  "version": "0.1.0",
+  "description": "Workflow skills: code_feature_builder (feature and bug lifecycle), rebase-guide (single-branch rebase with conflict report), babysit-pr (PR review and CI monitoring).",
+  "author": { "name": "York Yang" }
+}

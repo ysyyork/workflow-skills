@@ -1,0 +1,13 @@
+{
+  "name": "workflow-skills",
+  "owner": {
+    "name": "York Yang"
+  },
+  "plugins": [
+    {
+      "name": "workflow",
+      "source": "./plugins/workflow",
+      "description": "Feature-building, rebase, and PR-babysitting workflow skills"
+    }
+  ]
+}
